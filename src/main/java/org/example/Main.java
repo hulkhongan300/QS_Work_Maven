@@ -17,5 +17,6 @@ public class Main {
         System.out.println(mean);
         System.out.println(median);
         System.out.println(standardDeviation);
+        System.out.println("Hello");
     }
 }
